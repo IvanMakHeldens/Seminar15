@@ -1,0 +1,4 @@
+INFO:root:{'args': (10, 2), 'result': 5.0}
+INFO:root:{'args': (10, 5), 'result': 2.0}
+INFO:root:{'args': (10, 2), 'result': 5.0}
+INFO:root:{'args': (10, 5), 'result': 2.0}
